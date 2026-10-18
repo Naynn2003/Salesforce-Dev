@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Agentforce Project
 
 This Salesforce DX project contains a sample agent called Local Info Agent that you could, for example, embed in a resort's web site. The agent provides local weather updates, shares information about local events, and helps guests with facility hours. 
@@ -109,3 +110,7 @@ This README provides just a taste of working with Salesforce agents. Check out t
 - [_Salesforce CLI Setup Guide_](https://developer.salesforce.com/docs/atlas.en-us.sfdx_setup.meta/sfdx_setup/sfdx_setup_intro.htm)
 - [_Salesforce DX Developer Guide_](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_intro.htm)
 - [_Salesforce CLI Command Reference_](https://developer.salesforce.com/docs/atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference.htm)
+=======
+# Salesforce-Dev
+My personal salesforce related work
+>>>>>>> origin/main
